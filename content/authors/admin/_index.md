@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ishika Singh
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergrad, Computer Science majors
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: IIT Kanpur
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-centred AI, computational modelling (language, behaviour), and distributed learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human-Centered AI
+- Distributed Learning and Optimization
+- NLP
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Tech., majors in Computer Science and Chemical Engineering (GPA: 9.3/10) 
+    institution: Indian Institute of Technology Kanpur, India
+    year: 2016 - Present
+  - course: CBSE - XII (90.5%)
+    institution: Delhi Public School, Varanasi, India
+    year: 2014-16
+  - course: High School (GPA: 10/10)
+    institution: St. Francis School, Anpara, India
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:ishikasingh95@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ishika3singh
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ishika95
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ishikasingh
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@ishikasingh95
+- icon: deviantart
+  icon_pack: fab
+  link: https://www.deviantart.com/ishikasingh95
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an undergrad from IIT Kanpur. My research agenda pertains to modeling interpretable intelligent machines with ethics and emotions incorporated.
