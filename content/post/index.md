@@ -19,7 +19,7 @@ links:
 #   3 = Card
 view: 2
 +++
-Find the article here:
+Find the article here - 
 links:
   - icon_pack: fab
     icon: medium
