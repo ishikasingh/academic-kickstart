@@ -20,10 +20,5 @@ links:
 view: 2
 +++
 
+Find the article here on [Medium](ttps://medium.com/@ishikasingh95/scientific-discovery-and-its-logic-a-review-39b644e1a912?source=friends_link&sk=eba783255cc810bc1dbec6aaba3b0216).
 
-Find the article here - 
-links:
-  - icon_pack: fab
-    icon: medium
-    name: Published on Medium
-    url: 'https://medium.com/@ishikasingh95/scientific-discovery-and-its-logic-a-review-39b644e1a912?source=friends_link&sk=eba783255cc810bc1dbec6aaba3b0216'
