@@ -1,6 +1,6 @@
 +++
-title: Scientific Discovery and it’s Logic — A review
-summary: Is scientific discovery method-based/rational, or an outcome of human’s creative intuitions?
+title: "Scientific Discovery and it’s Logic — A review"
+summary: "Is scientific discovery method-based/rational, or an outcome of human’s creative intuitions?"
 date: "2020-02-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -19,6 +19,8 @@ links:
 #   3 = Card
 view: 2
 +++
+
+
 Find the article here - 
 links:
   - icon_pack: fab
