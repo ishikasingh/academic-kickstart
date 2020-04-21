@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://research.adobe.com/"
   location = "Banglore (Remote)"
   date_start = "2020-04-21"
-  date_end = "2020-06-31"
+  date_end = ""
   description = """ """
   
 [[experience]]
