@@ -6,7 +6,7 @@ date = "2020-02-01"
 #   2 = Compact
 #   3 = Card
 view = 2
-links:
+links=
   - icon_pack= fab
     icon= medium
     name= Published on Medium
