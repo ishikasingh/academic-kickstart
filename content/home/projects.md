@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Predicting Web Browsing Patterns - A Recommendation System Extension"
+  title = "Stochastic Algorithms for Minimax Optimization"
   company = "Prof. Ketan Rajawat"
   company_url = ""
   location = "IIT Kanpur"
