@@ -52,4 +52,4 @@ subtitle = ""
 
 ### Differentially-private Federated Neural Architecture Search
 Ishika Singh, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
-[arxiv](https://arxiv.org/abs/2006.10559)
+[[arxiv](https://arxiv.org/abs/2006.10559)]
