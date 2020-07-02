@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
  +++
  
-**June, 2020** Work on [Differentially Private Federated Neural Archtechture Search](https://arxiv.org/abs/2006.10559) accepted at FL-ICML'20
+**Jun, 2020** Work on [Differentially Private Federated Neural Archtechture Search](https://arxiv.org/abs/2006.10559) accepted at FL-ICML'20
 
 **Dec, 2019** Received [Adobe India WIT Scholarship 2020](https://adobe.ly/2Sl1VkY)
