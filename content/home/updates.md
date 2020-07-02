@@ -50,16 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+**Jun, 2020** Work on [Differentially Private Federated Neural Architechture Search](https://arxiv.org/abs/2006.10559) accepted at FL-ICML'20.
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+**Dec, 2019** Received [Adobe India WIT Scholarship 2020](https://adobe.ly/2Sl1VkY).
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
