@@ -12,6 +12,11 @@
   name = "Updates"
   url = "#updates"
   weight = 15
+  
+[[main]]
+  name = "Publications"
+  url = "#pubs"
+  weight = 16
 
 [[main]]
   name = "Experience"
