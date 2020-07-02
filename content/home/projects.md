@@ -27,16 +27,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Developed a model capable of generating intended affect-driven sentences with grammatical correctness intact. """
   
-[[experience]]
-  title = "Differentially Private Non-Convex Optimization"
-  company = "Prof. Pengtao Xie"
-  company_url = "https://sites.google.com/site/pengtaoxie2008/"
-  location = "UC San Diego"
-  date_start = "2020-01-01"
-  date_end = ""
-  description = """
-  Theoretically analysed DP and convergence for general non-convex objectives and neural network loss objectives.
-  """
+# [[experience]]
+#  title = "Differentially Private Non-Convex Optimization"
+ # company = "Prof. Pengtao Xie"
+ # company_url = "https://sites.google.com/site/pengtaoxie2008/"
+#  location = "UC San Diego"
+#  date_start = "2020-01-01"
+#  date_end = ""
+#  description = """
+#  Theoretically analysed DP and convergence for general non-convex objectives and neural network loss objectives.
+#  """
   
 [[experience]]
   title = "Predicting Web Browsing Patterns - A Recommendation System Extension"
