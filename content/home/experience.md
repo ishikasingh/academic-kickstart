@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Banglore (Remote)"
   date_start = "2020-04-21"
   date_end = ""
-  description = """ """
+  description = """ [Blog on internship experience](https://t.co/xEqgrgYqnU?amp=1)"""
   
 [[experience]]
   title = "AI Research Intern"
