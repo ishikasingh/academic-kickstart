@@ -49,7 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-**Jun, 2020** Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] [[Short Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)] <br />
-**Dec, 2019** Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://adobe.ly/2Sl1VkY)]
+**Sept, 2020** | Work on Controlled Affective Text Generation accepted as long paper at COLING'20. Paper coming soon.<br />
+**Sept, 2020** | Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
+**Jun, 2020**  | Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] [[Short Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)] <br />
+**Dec, 2019**  | Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://adobe.ly/2Sl1VkY)]
 
