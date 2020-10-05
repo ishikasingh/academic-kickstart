@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Posts"
-subtitle = ""
+subtitle = "Find the blogs on my [Medium](https://medium.com/@ishikasingh95) space"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
