@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -50,6 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
+### Affective Text Generation
+Ishika Singh, Tushar Goswamy, Ahsan Barkati, and Ashutosh Modi <br />
+International Conference on Computational Linguistics (COLING) 2020 <br />
+Paper coming soon
+
 ### Differentially-private Federated Neural Architecture Search
 Ishika Singh, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
-[[arXiv](https://arxiv.org/abs/2006.10559)]
+International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) <br />
+[[arXiv](https://arxiv.org/abs/2006.10559)] [[Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)]
