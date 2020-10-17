@@ -30,12 +30,12 @@ education:
   - course: B.Tech., majors in Computer Science and Chemical Engineering (GPA - 9.3/10) 
     institution: Indian Institute of Technology Kanpur, India
     year: 2016 - Present
-  - course: CBSE - XII (90.5%)
-    institution: Delhi Public School, Varanasi, India
-    year: 2014 - 16
-  - course: High School (GPA - 10/10)
-    institution: St. Francis School, Anpara, India
-    year: 2014
+#  - course: CBSE - XII (90.5%)
+#    institution: Delhi Public School, Varanasi, India
+#    year: 2014 - 16
+#  - course: High School (GPA - 10/10)
+#    institution: St. Francis School, Anpara, India
+#    year: 2014 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
