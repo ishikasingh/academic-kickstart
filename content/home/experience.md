@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://research.adobe.com/"
   location = "Banglore (Remote)"
   date_start = "2020-04-21"
-  date_end = ""
+  date_end = "2020-07-17"
   description = """ [Blog on internship experience](https://t.co/xEqgrgYqnU?amp=1)"""
   
 [[experience]]
