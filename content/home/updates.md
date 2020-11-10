@@ -52,5 +52,5 @@ subtitle = ""
 **Sept, 2020** | Work on Affective Text Generation accepted as long paper at COLING'20. [[arXiv](https://arxiv.org/abs/2011.04000)]<br />
 **Sept, 2020** | Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
 **Jun, 2020**  | Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] <br />
-**Dec, 2019**  | Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://adobe.ly/2Sl1VkY)][[Getting through it advice!](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
+**Dec, 2019**  | Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://adobe.ly/2Sl1VkY)][[Getting-through-it Advice!](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
 
