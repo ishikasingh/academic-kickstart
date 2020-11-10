@@ -57,5 +57,5 @@ International Conference on Computational Linguistics (COLING) 2020 <br />
 
 ### Differentially-private Federated Neural Architecture Search
 Ishika Singh, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
-International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) <br />
+International Workshop on Federated Learning for User Privacy and Data Confidentiality @ ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) <br />
 [arXiv](https://arxiv.org/abs/2006.10559) / [Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)
