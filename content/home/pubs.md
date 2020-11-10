@@ -50,12 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-### Affective Text Generation
+### Adapting a Language Model for Controlled Affective Text Generation
 Ishika Singh, Tushar Goswamy, Ahsan Barkati, and Ashutosh Modi <br />
 International Conference on Computational Linguistics (COLING) 2020 <br />
-Paper coming soon
+[arXiv](http://arxiv.org/abs/2011.04000) / [talk](https://www.youtube.com/watch?v=gY4cBfrtg5c)
 
 ### Differentially-private Federated Neural Architecture Search
 Ishika Singh, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
 International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) <br />
-[[arXiv](https://arxiv.org/abs/2006.10559)] [[Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)]
+[arXiv](https://arxiv.org/abs/2006.10559) / [Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)
