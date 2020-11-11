@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: B.Tech., majors in Computer Science and Chemical Engineering (GPA - 9.3/10) 
+  - course: B.Tech., majors in Computer Science and Chemical Engineering
     institution: Indian Institute of Technology Kanpur, India
     year: 2016 - Present
-#  - course: CBSE - XII (90.5%)
+#  - course: CBSE - XII
 #    institution: Delhi Public School, Varanasi, India
 #    year: 2014 - 16
-#  - course: High School (GPA - 10/10)
+#  - course: High School
 #    institution: St. Francis School, Anpara, India
 #    year: 2014 
 
