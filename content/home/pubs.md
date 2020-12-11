@@ -51,11 +51,12 @@ subtitle = ""
 +++
 
 ### Adapting a Language Model for Controlled Affective Text Generation
-Ishika Singh, Tushar Goswamy, Ahsan Barkati, and Ashutosh Modi <br />
-International Conference on Computational Linguistics (COLING) 2020 <br />
+Ishika Singh, Ahsan Barkati, Tushar Goswamy, Ashutosh Modi <br />
+<i>International Conference on Computational Linguistics (COLING) 2020</i> <br />
+Appeared at <i>[Wordplay](https://wordplay-workshop.github.io/modern/#accepted_papers): When Language Meets Games @ NeurIPS 2020</i> <br />
 [arXiv](http://arxiv.org/abs/2011.04000) / [talk](https://www.youtube.com/watch?v=gY4cBfrtg5c)
 
 ### Differentially-private Federated Neural Architecture Search
 Ishika Singh, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
-International Workshop on Federated Learning for User Privacy and Data Confidentiality @ ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/)) <br />
+<i>International Workshop on [Federated Learning](http://federated-learning.org/fl-icml-2020/) for User Privacy and Data Confidentiality @ ICML 2020</i> <br />
 [arXiv](https://arxiv.org/abs/2006.10559) / [Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)
