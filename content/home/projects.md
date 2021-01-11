@@ -11,7 +11,7 @@ subtitle = "Contact for more details"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "160", "20px", "160"]
+  padding = ["20px", "160px", "20px", "160px"]
   
 
 # Date format for experience
