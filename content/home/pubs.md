@@ -58,10 +58,10 @@ subtitle = ""
   </tr> -->
   
   <tr>
-    <td style="width:35%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></td>
-    <td style="width:65%;vertical-align:middle">
+    <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></td>
+    <td style="width:70%;vertical-align:middle">
       <h3>Adapting a Language Model for Controlled Affective Text Generation</h3>
-<p style="font-size:140%;">
+<p style="font-size:120%;">
 <b>Ishika Singh</b>*, Ahsan Barkati*, Tushar Goswamy, Ashutosh Modi <br />
 <i>International Conference on Computational Linguistics (<a href="http://coling2020.org/">COLING</a>) 2020</i> <br />
 Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_papers">Wordplay</a>: When Language Meets Games @ NeurIPS 2020</i> <br />
@@ -73,10 +73,10 @@ Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_pap
   
   
   <tr>
-    <td style="width:35%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></td>
-    <td style="width:65%;vertical-align:middle">
+    <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></td>
+    <td style="width:70%;vertical-align:middle">
       <h3>Differentially-private Federated Neural Architecture Search</h3>
-<p style="font-size:140%;">
+<p style="font-size:120%;">
 <b>Ishika Singh</b>*, Haoyi Zhou*, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
 <i>International Workshop on <a href="http://federated-learning.org/fl-icml-2020/">Federated Learning</a> for User Privacy and Data Confidentiality @ ICML 2020</i> <br />
       <a href="https://arxiv.org/abs/2006.10559">arXiv</a> / 
