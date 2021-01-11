@@ -52,7 +52,7 @@ subtitle = ""
 
 <table style="width:100%">
   <tr>
-    <th><img src="static/files/fnas-ps-1.png"></th>
+    <th><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></th>
     <th>Lastname</th>
     <th>Age</th>
   </tr>
