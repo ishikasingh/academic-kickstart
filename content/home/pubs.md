@@ -51,30 +51,32 @@ subtitle = ""
 +++
 
 <table style="width:100%">
-  <tr>
-    <th><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></th>
+<!--   <tr>
+    <th><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></th>
     <th>Lastname</th>
     <th>Age</th>
-  </tr>
+  </tr> -->
+  
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-
-### Adapting a Language Model for Controlled Affective Text Generation
+    <td><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></td>
+    <td>### Adapting a Language Model for Controlled Affective Text Generation
 <b>Ishika Singh</b>, Ahsan Barkati, Tushar Goswamy, Ashutosh Modi <br />
 <i>International Conference on Computational Linguistics (COLING) 2020</i> <br />
 Appeared at <i>[Wordplay](https://wordplay-workshop.github.io/modern/#accepted_papers): When Language Meets Games @ NeurIPS 2020</i> <br />
-[arXiv](http://arxiv.org/abs/2011.04000) / [talk](https://www.youtube.com/watch?v=gY4cBfrtg5c)
-
-### Differentially-private Federated Neural Architecture Search
+[arXiv](http://arxiv.org/abs/2011.04000) / [talk](https://www.youtube.com/watch?v=gY4cBfrtg5c)</td>
+<!--     <td>94</td> -->
+  </tr>
+  
+  <tr>
+    <td><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></td>
+    <td>### Differentially-private Federated Neural Architecture Search
 <b>Ishika Singh</b>, Haoyi Zhou, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
 <i>International Workshop on [Federated Learning](http://federated-learning.org/fl-icml-2020/) for User Privacy and Data Confidentiality @ ICML 2020</i> <br />
-[arXiv](https://arxiv.org/abs/2006.10559) / [Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)
+[arXiv](https://arxiv.org/abs/2006.10559) / [Workshop Version](https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf)</td>
+<!--     <td>50 </td> -->
+  </tr>
+</table>
+
+
+
+
