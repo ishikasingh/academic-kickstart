@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,6 +49,24 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<table style="width:100%">
+  <tr>
+    <th><img src="static/files/fnas-ps-1.png"></th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
 
 ### Adapting a Language Model for Controlled Affective Text Generation
 <b>Ishika Singh</b>, Ahsan Barkati, Tushar Goswamy, Ashutosh Modi <br />
