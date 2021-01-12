@@ -11,7 +11,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "160px", "20px", "160px"]
+  padding = ["20px", "0", "20px", "0"]
   
 
 # Date format for experience
