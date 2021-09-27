@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad, Computer Science majors
+role: PhD student, Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-centred AI, learning from language, and distributed learning.
+<!-- bio:  -->
 
 interests:
-- RoboNLP, Embodied AI
-- Distributed Learning and Optimization
-- Human-Centred AI
+- RoboNLP
+- Embodied AI
+- Distributed Learning
 
 education:
   courses:
+  - course: PhD, Computer Science
+    institution: University of Sothern California, LA, CA
+    year: 2021
   - course: B.Tech., double major in Computer Science and Chemical Engineering
     institution: Indian Institute of Technology Kanpur, India
     year: 2016 - 2021
@@ -50,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=eFsEy1YAAAAJ&hl=en
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ishika3singh
+  link: https://twitter.com/Ishika_S_
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ishika95
@@ -79,7 +82,9 @@ user_groups:
 - Visitors
 ---
 
-I am a final year undergrad at IIT Kanpur. I am fortunate to have worked with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent one of my summers interning at [Adobe Research](https://adobe.ly/3irCKbn). I have mostly worked in NLP and theoretical ML (see [publications](https://ishikasingh.github.io/#pubs)). My research interests are across NLP, RL, and ML theory; primarily around why (how) language is necessary for (can be utilized in) robot learning. I think that problems under Embodied AI are yet more foundational than applied, and hold deep-rooted benefits for the society.
+I am PhD student at USC, advised by [Jesse Thomason](https://jessethomason.com/). My research interests are across NLP, RL, and ML theory; primarily around why (how) language is necessary for (can be utilized in) robot learning. I think that problems under Embodied AI are yet more foundational than applied, and hold deep-rooted benefits for the society.
+
+Previously, I am fortunate to have worked with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent one of my summers interning at [Adobe Research](https://adobe.ly/3irCKbn). I have mostly worked in NLP and theoretical ML (see [publications](https://ishikasingh.github.io/#pubs)). 
 
 I am also a part of [Brain & Cognitive Society (BCS)](https://bcs-iitk.github.io/) at IIT-K, currently leading the group, where I organize interesting [talks](https://bcs-iitk.github.io/journal-club/) and collaborate/mentor [projects](https://bcs-iitk.github.io/events/2020/05/01/Summer-Projects-2020.html). I have also been an Academic Mentor to freshers for 1st year Mathematics Courses offered at IIT-K.
 
