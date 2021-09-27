@@ -14,7 +14,7 @@ role: PhD student, Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: IIT Kanpur
+- name: USC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
