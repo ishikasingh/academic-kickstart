@@ -82,9 +82,9 @@ user_groups:
 - Visitors
 ---
 
-I am PhD student at USC, advised by [Jesse Thomason](https://jessethomason.com/). My research interests are across NLP and robotics; primarily around why (how) language is necessary for (can be utilized in) robot learning. I think that problems under Embodied AI are yet more foundational, and hold deep-rooted benefits for the society.
+I am a PhD student at USC, advised by [Jesse Thomason](https://jessethomason.com/). My research interests are across NLP and robotics; primarily around why (how) language is necessary for (can be utilized in) robot learning. I think that problems under Embodied AI are yet more foundational, and hold deep-rooted benefits for the society.
 
-Previously, I was an undergrad at IIT Kanpur, where I worked on topics relating to NLP and theoretical ML with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent one of my summers interning at [Adobe Research](https://adobe.ly/3irCKbn). In 2020, [Adobe Research](https://research.adobe.com/) selected me for [Adobe India WIT Scholarship](https://adobe.ly/2Sl1VkY). 
+Previously, I was an undergrad at IIT Kanpur, where I worked on topics relating to NLP and theoretical ML with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent one of my summers interning at [Adobe Research](https://adobe.ly/3irCKbn), where I also received the [Adobe India WIT Scholarship 2020](https://adobe.ly/2Sl1VkY). 
 
 <!--
 I am also a part of [Brain & Cognitive Society (BCS)](https://bcs-iitk.github.io/) at IIT-K, currently leading the group, where I organize interesting [talks](https://bcs-iitk.github.io/journal-club/) and collaborate/mentor [projects](https://bcs-iitk.github.io/events/2020/05/01/Summer-Projects-2020.html). I have also been an Academic Mentor to freshers for 1st year Mathematics Courses offered at IIT-K.
