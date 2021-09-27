@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Aug, 2021** | Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://jessethomason.com/). <br />
 **Sept, 2020** | Work on Affective Text Generation accepted as long paper at COLING'20. [[arXiv](https://arxiv.org/abs/2011.04000)]<br />
 **Sept, 2020** | Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
 **Jun, 2020**  | Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] <br />
