@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD, Computer Science
-    institution: University of Sothern California, LA, CA
+    institution: University of Southern California, LA, CA
     year: 2021
   - course: B.Tech., double major in Computer Science and Chemical Engineering
     institution: Indian Institute of Technology Kanpur, India
