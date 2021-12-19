@@ -58,7 +58,7 @@ subtitle = ""
   </tr> -->
   
   <tr>
-    <td style="width:30%;vertical-align:middle"><embed src="https://ishikasingh.github.io/files/eg.png"></td>
+    <td style="width:30%;vertical-align:middle"><embed src="https://ishikasingh.github.io/files/eg.pdf"/></td>
     <td style="width:70%;vertical-align:middle">
       <h3>Pre-trained Language Models as Prior Knowledge for Playing Text-based Games</h3>
 <p style="font-size:120%;">
