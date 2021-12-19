@@ -23,7 +23,7 @@ organizations:
 interests:
 - RoboNLP
 - Embodied AI
-- Distributed Learning
+- Vision-Language Navigation
 
 education:
   courses:
@@ -82,7 +82,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at USC, advised by [Jesse Thomason](https://jessethomason.com/). My research interests are across NLP and robotics; primarily around why (how) language is necessary for (can be utilized in) robot learning. I think that problems under Embodied AI are yet more foundational, and hold deep-rooted benefits for the society.
+I am a PhD student at USC, advised by [Prof. Jesse Thomason](https://jessethomason.com/). My research interests are across NLP and robotics; primarily around why (how) language is necessary for (can be utilized in) robot learning and embodied AI. I think that problems under Embodied AI are yet more foundational, and hold deep-rooted benefits for the society.
 
 Previously, I was an undergrad at IIT Kanpur, where I worked on topics relating to NLP and theoretical ML with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent one of my summers interning at [Adobe Research](https://adobe.ly/3irCKbn), where I also received the [Adobe India WIT Scholarship 2020](https://adobe.ly/2Sl1VkY). 
 
