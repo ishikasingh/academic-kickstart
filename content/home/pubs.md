@@ -58,6 +58,20 @@ subtitle = ""
   </tr> -->
   
   <tr>
+    <td style="width:30%;vertical-align:middle"><embed src="https://ishikasingh.github.io/files/eg.png"></td>
+    <td style="width:70%;vertical-align:middle">
+      <h3>Pre-trained Language Models as Prior Knowledge for Playing Text-based Games</h3>
+<p style="font-size:120%;">
+<b>Ishika Singh</b>, Gargi Singh, Ashutosh Modi <br />
+<i>International Conference on Autonomous Agents and Multiagent Systems (<a href="https://aamas2022-conference.auckland.ac.nz/">AAMAS</a>) 2022  (Extended Abstracts)</i> <br />
+      <a href="https://arxiv.org/abs/2107.08408">arXiv</a> / 
+     <!-- <a href="https://www.youtube.com/watch?v=gY4cBfrtg5c">talk</a> / -->
+      <a href="https://github.com/Exploration-Lab/IFG-Pretrained-LM">code</a> /
+  <a href="https://aamas2022-conference.auckland.ac.nz/accepted/extended-abstracts/">extended abstract coming soon</a>
+    </td> </p>
+  </tr>
+  
+  <tr>
     <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></td>
     <td style="width:70%;vertical-align:middle">
       <h3>Adapting a Language Model for Controlled Affective Text Generation</h3>
@@ -68,7 +82,6 @@ Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_pap
       <a href="http://arxiv.org/abs/2011.04000">arXiv</a> / 
       <a href="https://www.youtube.com/watch?v=gY4cBfrtg5c">talk</a> / 
       <a href="https://github.com/ishikasingh/Affective-text-gen">code</a> </td> </p>
-<!--     <td>94</td> -->
   </tr>
   
   
@@ -82,7 +95,6 @@ Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_pap
       <a href="https://arxiv.org/abs/2006.10559">arXiv</a> / 
       <a href="https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf">Workshop Version</a> / 
       <a href="https://github.com/UCSD-AI4H/DP-FNAS">code</a> </td> </p>
-<!--     <td>94</td> -->
   </tr>
   
 </table>
