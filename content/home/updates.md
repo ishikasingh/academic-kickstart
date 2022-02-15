@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-**Dec, 2021** | Work on Interactive Fiction Games accepted as extended abstract + poster presentation at AAMAS'22. [[arXiv](https://arxiv.org/abs/2107.08408)]. Extended abstract coming soon! <br />
+**Feb, 2022** | Co-organizing vision-and-dialogue [TEACh TATC Challenge](https://teachingalfred.github.io/EAI22/) @ [Embodied AI Workshop](https://embodied-ai.org/), CVPR'22. <br />
+**Dec, 2021** | I will be interning at [NVIDIA AI Robotics Research Lab, Seattle](https://www.nvidia.com/en-us/research/robotics/) in Summer'22! <br />
+**Dec, 2021** | Work on Interactive Fiction Games accepted as extended abstract at AAMAS'22. [[arXiv](https://arxiv.org/abs/2107.08408)]. <br />
 **Aug, 2021** | Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://jessethomason.com/). <br />
 **Sept, 2020** | Work on Affective Text Generation accepted as long paper at COLING'20. [[arXiv](https://arxiv.org/abs/2011.04000)]<br />
 **Sept, 2020** | Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
