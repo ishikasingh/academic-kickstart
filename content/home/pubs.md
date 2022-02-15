@@ -55,10 +55,13 @@ subtitle = ""
     <th><img src="https://ishikasingh.github.io/files/model-refined-affTG-1.png"></th>
     <th>Lastname</th>
     <th>Age</th>
-  </tr> -->
+  </tr>
   
   <tr>
-    <td style="width:30%;vertical-align:middle"><embed src="https://ishikasingh.github.io/files/eg.pdf" width="350px" height="200px"/></td>
+    <td style="width:30%;vertical-align:middle"><embed src="https://ishikasingh.github.io/files/eg_page-0001.pdf" width="350px" height="200px"/></td> -->
+    
+<tr>   
+    <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/eg_page-0001.png"></td>
     <td style="width:70%;vertical-align:middle">
       <h3>Pre-trained Language Models as Prior Knowledge for Playing Text-based Games</h3>
 <p style="font-size:120%;">
