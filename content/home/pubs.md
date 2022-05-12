@@ -70,7 +70,7 @@ subtitle = ""
       <a href="https://arxiv.org/abs/2107.08408">arXiv</a> / 
      <!-- <a href="https://www.youtube.com/watch?v=gY4cBfrtg5c">talk</a> / -->
       <a href="https://github.com/Exploration-Lab/IFG-Pretrained-LM">code</a> /
-  <a href="https://aamas2022-conference.auckland.ac.nz/accepted/extended-abstracts/">extended abstract coming soon</a>
+  <a href="https://ifaamas.org/Proceedings/aamas2022/pdfs/p1729.pdf">extended abstract</a>
     </td> </p>
   </tr>
   
@@ -96,7 +96,7 @@ Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_pap
 <b>Ishika Singh</b>*, Haoyi Zhou*, Kunlin Yang, Meng Ding, Bill Lin, Pengtao Xie <br />
 <i>International Workshop on <a href="http://federated-learning.org/fl-icml-2020/">Federated Learning</a> for User Privacy and Data Confidentiality @ ICML 2020</i> <br />
       <a href="https://arxiv.org/abs/2006.10559">arXiv</a> / 
-      <a href="https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf">Workshop Version</a> / 
+      <a href="https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf">workshop version</a> / 
       <a href="https://github.com/UCSD-AI4H/DP-FNAS">code</a> </td> </p>
   </tr>
   
