@@ -102,6 +102,11 @@ Appeared at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_pap
   
 </table>
 
+<h3>Machine-learning techniques for augmenting electronic documents with data-verification indicators</h3>
+<p style="font-size:120%;">
+Navita Goyal, Vipul Shankhpal, Priyanshu Gupta, <b>Ishika Singh</b>, Baldip Singh Bijlani, Anandhavelu Natarajan <br />
+US Patent Application 17/108,424 | Adobe <br />
+      <a href="https://patentimages.storage.googleapis.com/62/fc/61/a84b505f959580/US20220171935A1.pdf">pdf</a> </p>
 
 
 
