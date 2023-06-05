@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ishikasingh95@gmail.com  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:ishikasi@usc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=eFsEy1YAAAAJ&hl=en
