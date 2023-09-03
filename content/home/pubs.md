@@ -59,9 +59,11 @@ subtitle = ""
 <b>Ishika Singh</b>, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg <br />
   <i>International Conference on Robotics and Automation (<a href="https://www.icra2023.org/">ICRA</a>) 2023</i> <br />
   Also at <i> <a href="https://larel-workshop.github.io/">LaReL</a> @ NeurIPS 2022, <a href="https://sites.google.com/view/langrob-corl22/">LangRob</a> @ CoRL 2022</i> <br />
+  Extended version in <i> <a href="https://www.springer.com/journal/10514">Autonomous Robots (AR) 2023</a> (Large Language Models in Robotics)</i> <br />
       <a href="https://arxiv.org/abs/2209.11302">arXiv</a> / 
+      <a href="https://www.springer.com/journal/10514">AR journal paper</a> /
      <a href="https://progprompt.github.io/">website</a> /
-<!--       <a href="https://github.com/Exploration-Lab/IFG-Pretrained-LM">code</a> / -->
+      <a href="https://github.com/NVlabs/progprompt-vh">code</a> /
   <a href="https://youtu.be/cawHI_rYQoM">video</a>
     </td> </p>
   </tr>
