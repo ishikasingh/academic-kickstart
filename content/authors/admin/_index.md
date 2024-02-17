@@ -21,7 +21,8 @@ organizations:
 <!-- bio:  -->
 
 interests:
-- RoboNLP
+- Robot Learning
+- 3D Representation Learning
 - Embodied AI
 - Vision-Language Navigation
 
@@ -29,7 +30,7 @@ education:
   courses:
   - course: PhD, Computer Science
     institution: University of Southern California, LA, CA
-    year: 2021
+    year: 2021 -
   - course: B.Tech., double major in Computer Science and Chemical Engineering
     institution: Indian Institute of Technology Kanpur, India
     year: 2016 - 2021
@@ -84,7 +85,7 @@ user_groups:
 
 I am a PhD student at USC, advised by [Prof. Jesse Thomason](https://jessethomason.com/). My research interests are across NLP and robotics; primarily around why (how) language is necessary for (can be utilized in) robot learning and embodied AI. I think that problems under Embodied AI are yet more foundational, and hold deep-rooted benefits for the society.
 
-Previously, I was an undergrad at IIT Kanpur, where I worked on topics relating to NLP and theoretical ML with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent some summers interning at [Adobe Research](https://adobe.ly/3irCKbn), where I also received the [Adobe India WIT Scholarship 2020](https://adobe.ly/2Sl1VkY), and [NVIDIA SRL](https://research.nvidia.com/labs/srl/).
+Previously, I was an undergrad at IIT Kanpur, where I worked on topics relating to NLP and theoretical ML with [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/) (IIT-K), [Prof. Nisheeth Srivastava](https://www.cse.iitk.ac.in/users/nsrivast/) (IIT-K), and [Prof. Pengtao Xie](https://sites.google.com/site/pengtaoxie2008/) ([UC San Diego](https://ucsd.edu/)). I have spent some summers interning at [Adobe Research](https://adobe.ly/3irCKbn), where I also received the [Adobe India WIT Scholarship 2020](https://research.adobe.com/news/adobe-india-women-in-technology-scholars-solving-technical-challenges/?scid=308c439d-b8ff-452a-a515-948a80864bfc&mv=research_twitter&mv2=owned_social), and [NVIDIA SRL](https://research.nvidia.com/labs/srl/).
 
 <!--
 I am also a part of [Brain & Cognitive Society (BCS)](https://bcs-iitk.github.io/) at IIT-K, currently leading the group, where I organize interesting [talks](https://bcs-iitk.github.io/journal-club/) and collaborate/mentor [projects](https://bcs-iitk.github.io/events/2020/05/01/Summer-Projects-2020.html). I have also been an Academic Mentor to freshers for 1st year Mathematics Courses offered at IIT-K.

@@ -50,12 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-**Feb, 2022** | Co-organizing vision-and-dialogue [TEACh TATC Challenge](https://teachingalfred.github.io/EAI22/) @ [Embodied AI Workshop](https://embodied-ai.org/), CVPR'22. <br />
+**Jan, 2024** | Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
+**Jan, 2024** | Selected as Finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) with [Jesse Zhang](https://jesbu1.github.io/)! <br />
+**Aug, 2023** | I will be interning again at [NVIDIA SRL](https://research.nvidia.com/labs/srl/) in Summer'24 with [Valts](https://www.cs.cornell.edu/~valts/) and [Animesh](https://animesh.garg.tech/)!! <br />
+**May, 2023** | I received [RAS Travel Grant](https://www.icra2023.org/ras-travel-grants) to attend ICRA 2023! <br />
+**May, 2023** | Self-supervised 3D representation learning is accepted to [Pretraining4Robotics workshop @ ICRA 2023](https://microsoft.github.io/robotics.pretraining.workshop.icra/). <br />
+**Jan, 2023** | ProgPrompt is accepted to [ICRA 2023](https://www.icra2023.org/welcome) and [AuRo](https://link.springer.com/article/10.1007/s10514-023-10135-3) Journal. <br />
+**Feb, 2022** | Co-organizing vision-and-dialogue [TEACh TATC Challenge](https://teachingalfred.github.io/EAI22/) @ [Embodied AI Workshop](https://embodied-ai.org/), CVPR'22 and CVPR'23. <br />
 **Dec, 2021** | I will be interning at [NVIDIA AI Robotics Research Lab, Seattle](https://research.nvidia.com/labs/srl/) in Summer'22, advised by [Valts](https://www.cs.cornell.edu/~valts/) and [Animesh](https://animesh.garg.tech/)! <br />
 **Dec, 2021** | Work on Interactive Fiction Games accepted as extended abstract at AAMAS'22. [[arXiv](https://arxiv.org/abs/2107.08408)]. <br />
-**Aug, 2021** | Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://jessethomason.com/). <br />
+**Aug, 2021** | Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://jessethomason.com/) with 1 year of USC Grad Fellowship. <br />
 **Sept, 2020** | Work on Affective Text Generation accepted as long paper at COLING'20. [[arXiv](https://arxiv.org/abs/2011.04000)]<br />
 **Sept, 2020** | Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
 **Jun, 2020**  | Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] <br />
-**Dec, 2019**  | Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://adobe.ly/2Sl1VkY)][[Getting-through-it Advice!](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
+**Dec, 2019**  | Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://research.adobe.com/news/adobe-india-women-in-technology-scholars-solving-technical-challenges/?scid=308c439d-b8ff-452a-a515-948a80864bfc&mv=research_twitter&mv2=owned_social)][[Getting-through-it Advice!](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
 
