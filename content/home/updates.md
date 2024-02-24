@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+**Feb, 2024** | ProgPrompt was featured in [Scientific American](https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/) article! <br />
 **Jan, 2024** | Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
 **Jan, 2024** | Selected as Finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) with [Jesse Zhang](https://jesbu1.github.io/)! <br />
 **Aug, 2023** | I will be interning again at [NVIDIA SRL](https://research.nvidia.com/labs/srl/) in Summer'24 with [Valts](https://www.cs.cornell.edu/~valts/) and [Animesh](https://animesh.garg.tech/)!! <br />

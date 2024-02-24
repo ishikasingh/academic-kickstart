@@ -64,7 +64,8 @@ subtitle = ""
       <a href="https://link.springer.com/article/10.1007/s10514-023-10135-3">AR journal paper</a> /
      <a href="https://progprompt.github.io/">website</a> /
       <a href="https://github.com/NVlabs/progprompt-vh">code</a> /
-  <a href="https://youtu.be/cawHI_rYQoM">video</a>
+  <a href="https://youtu.be/cawHI_rYQoM">video</a> /
+  <a href="https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/">SciAm article</a>
     </td> </p>
   </tr>
     
