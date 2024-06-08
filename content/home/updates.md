@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+**May, 2024** | [The Colosseum](https://robot-colosseum.github.io/) is accepted to RSS 2024 and is open-source now! <br />
 **Feb, 2024** | Interviewed for ProgPrompt for a [Scientific American](https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/) article! <br />
 **Jan, 2024** | Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
 **Jan, 2024** | Selected as Finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) with [Jesse Zhang](https://jesbu1.github.io/)! <br />
