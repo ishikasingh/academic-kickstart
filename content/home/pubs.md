@@ -59,7 +59,7 @@ subtitle = ""
 A Benchmark for Evaluating Generalization for Robotic Manipulation</h3>
 <p style="font-size:120%;">
 Wilbert Pumacay*, <b>Ishika Singh</b>*, Jiafei Duan*, Ranjay Krishna, Jesse Thomason, Dieter Fox <br />
-  <i>Robotics: Science and Systems (<a href="https://www.icra2023.org/">RSS</a>) 2024</i> <br />
+  <i>Robotics: Science and Systems (<a href="https://roboticsconference.org/">RSS</a>) 2024</i> <br />
   Also at <i> <a href="https://icra-manipulation-skill.github.io/">Future Roadmap for Manipulation Skills</a> @ ICRA 2024, <a href="https://embodied-ai.org/">Embodied AI</a> @ CVPR 2024</i> <br />
       <a href="https://arxiv.org/abs/2402.08191">arXiv</a> / 
      <a href="https://robot-colosseum.github.io/">website</a> /
