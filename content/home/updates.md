@@ -44,12 +44,11 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "height:50px; overflow: auto"
+ css_style = "height:400px; overflow: auto"
  
  # CSS class.
  css_class = ""
 +++
-&nbsp;&nbsp;&nbsp;
 **Nov, 2024**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Co-organizing [Language and Robot Learning Workshop](https://sites.google.com/view/langrob-corl24), CoRL 2024. <br />
 **May, 2024**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Published a blog on [Language Models meet Classical Planners to make smarter Robot Task Plans](https://rasc.usc.edu/blog/language-models-meet-classical-planners-to-make-smarter-robot-task-plans/) in the blog of Robotics and Autonomous Systems Center at USC. <br />
 **May, 2024**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Invited panelist in [2024 Beyond the Ph.D. and Postdoctoral Career Conference](https://careers.usc.edu/2024-beyond-the-phd/), USC. <br />
