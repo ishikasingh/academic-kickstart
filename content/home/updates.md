@@ -44,12 +44,15 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "height:200px; overflow: auto"
+ css_style = "height:50px; overflow: auto"
  
  # CSS class.
  css_class = ""
 +++
 
+**Nov, 2024** | Co-organizing [Language and Robot Learning Workshop](https://sites.google.com/view/langrob-corl24), CoRL 2024. <br />
+**May, 2024** | Published a blog on [Language Models meet Classical Planners to make smarter Robot Task Plans](https://rasc.usc.edu/blog/language-models-meet-classical-planners-to-make-smarter-robot-task-plans/) in the blog of Robotics and Autonomous Systems Center at USC. <br />
+**May, 2024** | Invited panelist in [2024 Beyond the Ph.D. and Postdoctoral Career Conference](https://careers.usc.edu/2024-beyond-the-phd/), USC. <br />
 **May, 2024** | [The Colosseum](https://robot-colosseum.github.io/) is accepted to RSS 2024 and is open-source now! <br />
 **Feb, 2024** | Interviewed for ProgPrompt for a [Scientific American](https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/) article! <br />
 **Jan, 2024** | Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
