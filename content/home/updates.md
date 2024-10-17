@@ -44,7 +44,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "height:200px; overflow: auto"
  
  # CSS class.
  css_class = ""
