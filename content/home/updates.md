@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Nov, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [3D VLMs for Robotics](https://robo-3dvlms.github.io/), CVPR 2025. <br />
 **Nov, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [Language and Robot Learning Workshop](https://sites.google.com/view/langrob-corl24), CoRL 2024. <br />
 **Oct, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passed qualification exam at USC and upgraded to being a PhD candidate! <br />
 **Oct, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited panelist in [2024 Beyond the Ph.D. and Postdoctoral Career Conference](https://careers.usc.edu/2024-beyond-the-phd/), USC. <br />
