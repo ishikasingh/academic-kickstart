@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Workshop 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
+**Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Cohort 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
 **Mar, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [SemRob Workshop](https://semrob.github.io/), RSS 2025. <br />
 **Feb, 2025**&nbsp;&nbsp;&nbsp;&nbsp;I will be interning at [Amazon Frontier AI and Robotics](https://covariant.ai/insights/introducing-the-next-phase-of-our-ai-robotics-journey/), San Francisco in Summer'25! <br />
 **Jan, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [3D VLMs for Robotics](https://robo-3dvlms.github.io/), CVPR 2025. <br />
@@ -68,9 +68,9 @@ subtitle = ""
 **Feb, 2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing vision-and-dialogue [TEACh TATC Challenge](https://teachingalfred.github.io/EAI22/) @ [Embodied AI Workshop](https://embodied-ai.org/), CVPR'22 and CVPR'23. <br />
 **Dec, 2021**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will be interning at [NVIDIA AI Robotics Research Lab, Seattle](https://research.nvidia.com/labs/srl/) in Summer'22, advised by [Valts](https://www.cs.cornell.edu/~valts/) and [Animesh](https://animesh.garg.tech/)! <br />
 **Dec, 2021**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work on Interactive Fiction Games accepted as extended abstract at AAMAS'22. [[arXiv](https://arxiv.org/abs/2107.08408)]. <br />
-**Aug, 2021**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://jessethomason.com/) with 1 year of USC Grad Fellowship. <br />
+**Aug, 2021**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined the CS PhD program at USC as a member in the [GLAMOR Lab](https://glamor.rocks/) with 1 year of USC Grad Fellowship! <br />
 **Sept, 2020**&nbsp;&nbsp;&nbsp;&nbsp;Work on Affective Text Generation accepted as long paper at COLING'20. [[arXiv](https://arxiv.org/abs/2011.04000)]<br />
 **Sept, 2020**&nbsp;&nbsp;&nbsp;&nbsp;Adobe released a blog on my internship at Adobe Research, India! [[Read here](https://adobe.ly/3irCKbn)]<br />
 **Jun, 2020**&nbsp;&nbsp;&nbsp;&nbsp;Work on Differentially-private Federated Neural Architecture Search accepted at [FL-ICML'20](http://federated-learning.org/fl-icml-2020/). [[arXiv](https://arxiv.org/abs/2006.10559)] <br />
-**Dec, 2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received Adobe India WIT Scholarship 2020. [[Adobe's Blog](https://research.adobe.com/news/adobe-india-women-in-technology-scholars-solving-technical-challenges/?scid=308c439d-b8ff-452a-a515-948a80864bfc&mv=research_twitter&mv2=owned_social)][[Getting-through-it Advice!](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
+**Dec, 2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received Adobe India WIT Scholarship 2020! [[Adobe's Blog](https://research.adobe.com/news/adobe-india-women-in-technology-scholars-solving-technical-challenges/?scid=308c439d-b8ff-452a-a515-948a80864bfc&mv=research_twitter&mv2=owned_social)][[Getting-through-it Advice](https://medium.com/@ishikasingh95/getting-through-adobe-india-wit-scholarship-3826ce38eb8?source=social.tw)]
 
