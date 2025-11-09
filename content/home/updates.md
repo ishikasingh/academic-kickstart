@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <b>Now on the Job Market</b> - please reach out!! <br />
+**Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <b>Now on the Job Market</b> - please reach out!!<br />
 **Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Cohort 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
 **Mar, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [SemRob Workshop](https://semrob.github.io/), RSS 2025. <br />
 **Feb, 2025**&nbsp;&nbsp;&nbsp;&nbsp;I will be interning at [Amazon Frontier AI and Robotics](https://covariant.ai/insights/introducing-the-next-phase-of-our-ai-robotics-journey/), San Francisco in Summer'25! <br />
