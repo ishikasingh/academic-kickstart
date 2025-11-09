@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Publications"
-subtitle = ""
+title = "Selected Publications"
+subtitle = "Full list here [google scholar](https://scholar.google.com/citations?hl=en&user=eFsEy1YAAAAJ&view_op=list_works&sortby=pubdate)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -142,7 +142,7 @@ Also at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_papers"
   </tr>
   
   
-  <tr>
+  <!-- <tr>
     <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/fnas-ps-1.png"></td>
     <td style="width:70%;vertical-align:middle">
       <h3>Differentially-private Federated Neural Architecture Search</h3>
@@ -152,9 +152,9 @@ Also at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_papers"
       <a href="https://arxiv.org/abs/2006.10559">arXiv</a> / 
       <a href="https://ishikasingh.github.io/files/fl_icml2020workshop_FNAS.pdf">workshop version</a> / 
       <a href="https://github.com/UCSD-AI4H/DP-FNAS">code</a> </td> </p>
-  </tr>
+  </tr> -->
   
-  <tr>
+  <!-- <tr>
   <td style="width:30%;vertical-align:middle"><img src="https://ishikasingh.github.io/files/US20220171935A1-1.png"></td>
   <td style="width:70%;vertical-align:middle">
   <h3>Machine-learning techniques for augmenting electronic documents with data-verification indicators</h3>
@@ -162,7 +162,7 @@ Also at <i><a href="https://wordplay-workshop.github.io/modern/#accepted_papers"
 Navita Goyal, Vipul Shankhpal, Priyanshu Gupta, <b>Ishika Singh</b>, Baldip Singh Bijlani, Anandhavelu Natarajan <br />
 US Patent Application 17/108,424 | Adobe | 2022 <br />
       <a href="https://patentimages.storage.googleapis.com/62/fc/61/a84b505f959580/US20220171935A1.pdf">pdf</a> </td> </p>
-  </tr>
+  </tr> -->
     
 </table>
 
