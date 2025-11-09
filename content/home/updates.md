@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Nov, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <br />
 **Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Cohort 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
 **Mar, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [SemRob Workshop](https://semrob.github.io/), RSS 2025. <br />
 **Feb, 2025**&nbsp;&nbsp;&nbsp;&nbsp;I will be interning at [Amazon Frontier AI and Robotics](https://covariant.ai/insights/introducing-the-next-phase-of-our-ai-robotics-journey/), San Francisco in Summer'25! <br />
@@ -57,7 +58,7 @@ subtitle = ""
 **Oct, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passed qualification exam at USC and upgraded to being a PhD candidate! <br />
 **Oct, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invited panelist in [2024 Beyond the Ph.D. and Postdoctoral Career Conference](https://careers.usc.edu/2024-beyond-the-phd/), USC. <br />
 **Aug, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Published [Language Models meet Classical Planners to make smarter Robot Task Plans](https://rasc.usc.edu/blog/language-models-meet-classical-planners-to-make-smarter-robot-task-plans/) in the USC RASC blog. <br />
-**May, 2024**&nbsp;&nbsp;&nbsp;&nbsp;[The Colosseum](https://robot-colosseum.github.io/) is accepted to RSS 2024 and is open-source now! <br />
+**May, 2024**&nbsp;&nbsp;&nbsp;&nbsp; [The Colosseum](https://robot-colosseum.github.io/) is accepted to RSS 2024 and is open-source now! <br />
 **Feb, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interviewed for ProgPrompt for a [Scientific American](https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/) article! <br />
 **Jan, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
 **Jan, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selected as Finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) with [Jesse Zhang](https://jesbu1.github.io/)! <br />
