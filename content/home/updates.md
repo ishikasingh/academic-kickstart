@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 **Jan, 2026**&nbsp;&nbsp;&nbsp; Co-organizing [From Data to Decisions: VLA Pipelines for Real Robots](), ICRA 2026.<br />
-**Dec, 2025**&nbsp;&nbsp;&nbsp; Serving as Program Chair, [RSS Pioneers 2026](https://sites.google.com/view/rsspioneers2026/), RSS 2026. Looking forward to all the prospective applications!<br />
+**Dec, 2025**&nbsp;&nbsp;&nbsp; Serving as Program Committee Chair, [RSS Pioneers 2026](https://sites.google.com/view/rsspioneers2026/), RSS 2026. Looking forward to all the prospective applications!<br />
 **Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <b>Now on the Job Market</b> - please reach out!!<br />
 **Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Cohort 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
 **Mar, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [SemRob Workshop](https://semrob.github.io/), RSS 2025. <br />
