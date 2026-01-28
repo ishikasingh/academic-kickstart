@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Jan, 2026**&nbsp;&nbsp;&nbsp; Co-organizing [From Data to Decisions: VLA Pipelines for Real Robots](), ICRA 2026.<br />
-**Dec, 2025**&nbsp;&nbsp;&nbsp; Serving as Program Committee Chair, [RSS Pioneers 2026](https://sites.google.com/view/rsspioneers2026/), RSS 2026. Looking forward to all the prospective applications!<br />
-**Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <b>Now on the Job Market</b> - please reach out!!<br />
+**Jan, 2026**&nbsp;&nbsp;&nbsp; Co-organizing [From Data to Decisions: VLA Pipelines for Real Robots](), ICRA 2026. <br />
+**Dec, 2025**&nbsp;&nbsp;&nbsp; Serving as Program Committee Chair, [RSS Pioneers 2026](https://sites.google.com/view/rsspioneers2026/), RSS 2026. Looking forward to all the prospective applications! <br />
+**Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <br />
 **Apr, 2025**&nbsp;&nbsp;&nbsp;&nbsp; Selected as a member of the [RSS Pioneers Cohort 2025](https://sites.google.com/view/rsspioneers2025/participants?authuser=0)!!! <br />
 **Mar, 2025**&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing [SemRob Workshop](https://semrob.github.io/), RSS 2025. <br />
 **Feb, 2025**&nbsp;&nbsp;&nbsp;&nbsp;I will be interning at [Amazon Frontier AI and Robotics](https://covariant.ai/insights/introducing-the-next-phase-of-our-ai-robotics-journey/), San Francisco in Summer'25! <br />
@@ -65,7 +65,7 @@ subtitle = ""
 **Jan, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Released [The Colosseum](https://robot-colosseum.github.io/): A Benchmark for Evaluating Generalization for Robotic Manipulation.  <br />
 **Jan, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selected as Finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america) with [Jesse Zhang](https://jesbu1.github.io/)! <br />
 **Aug, 2023**&nbsp;&nbsp;&nbsp;&nbsp;I will be interning again at [NVIDIA SRL](https://research.nvidia.com/labs/srl/) in Summer'24 with [Valts](https://www.cs.cornell.edu/~valts/) and [Animesh](https://animesh.garg.tech/)!! <br />
-**May, 2023**&nbsp;&nbsp;&nbsp;&nbsp;I received [RAS Travel Grant](https://www.icra2023.org/ras-travel-grants) to attend ICRA 2023! <br />
+**May, 2023**&nbsp;&nbsp;&nbsp;&nbsp;I received [RAS Travel Grant](https://www.icra2023.org/ras-travel-grants) to attend ICRA 2023. <br />
 **May, 2023**&nbsp;&nbsp;&nbsp;&nbsp;Self-supervised 3D representation learning is accepted to [Pretraining4Robotics workshop @ ICRA 2023](https://microsoft.github.io/robotics.pretraining.workshop.icra/). <br />
 **Jan, 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ProgPrompt is accepted to [ICRA 2023](https://www.icra2023.org/welcome) and [AuRo](https://link.springer.com/article/10.1007/s10514-023-10135-3) Journal. <br />
 **Feb, 2022**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-organizing vision-and-dialogue [TEACh TATC Challenge](https://teachingalfred.github.io/EAI22/) @ [Embodied AI Workshop](https://embodied-ai.org/), CVPR'22 and CVPR'23. <br />
