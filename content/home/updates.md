@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**April, 2026**&nbsp; Passed thesis defense at USC! <br />
+
 **Jan, 2026**&nbsp;&nbsp;&nbsp; Co-organizing [From Data to Decisions: VLA Pipelines for Real Robots](), ICRA 2026. <br />
 **Dec, 2025**&nbsp;&nbsp;&nbsp; Serving as Program Committee Chair, [RSS Pioneers 2026](https://sites.google.com/view/rsspioneers2026/), RSS 2026. Looking forward to all the prospective applications! <br />
 **Nov, 2025**&nbsp;&nbsp;&nbsp; Passed thesis proposal at USC! <br />
