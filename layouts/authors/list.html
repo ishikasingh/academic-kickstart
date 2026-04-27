@@ -1,0 +1,46 @@
+{{- define "main" -}}
+
+{{/* Author profile page (override: Hugo 0.12x+ .Path handling broke theme's username extraction). */}}
+
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{ if .File }}
+      {{ $widget := "widgets/about.html" }}
+      {{ $username := "" }}
+      {{ with .File }}
+        {{ $dir := path.Dir .Path }}
+        {{ $parts := split $dir "/" }}
+        {{ if and (ge (len $parts) 2) (eq (index $parts 0) "authors") }}
+          {{ $username = index $parts 1 }}
+        {{ end }}
+      {{ end }}
+      {{ if $username }}
+        {{ $params := dict "root" $ "page" . "author" $username }}
+        {{ partial $widget $params }}
+      {{ end }}
+    {{ end }}
+
+    {{ $query := where .Pages ".IsNode" false }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    <div class="article-widget content-widget-hr">
+      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <ul>
+        {{ range $query }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}

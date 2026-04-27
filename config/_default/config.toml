@@ -22,7 +22,7 @@ copyright = ""
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
-googleAnalytics= "G-3TR2718YRH"
+# Google Analytics ID is set in params.toml under [marketing] (Hugo removed top-level googleAnalytics).
 # Get last modified date for content from Git?
 enableGitInfo = false
 
